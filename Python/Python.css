@@ -1,0 +1,206 @@
+
+#wrapper{
+	width: 970px;
+	height: 950px;
+	background-color: #245076;
+	margin: 0 auto;
+	}
+
+#pagehead{
+	width: 970px;
+	height: 140px;
+	background-color: #245076; 
+}
+img{
+	background-color: #245076;
+}
+#pagehead h6{
+	display: inline-block;
+	color: white;
+	vertical-align:  top;
+	margin: 10px auto;
+}
+#searchbox{
+	width: 330px;
+	height: 79px;
+	background-color: #444444;
+	display: inline-block
+	outline: 2px solid gray;
+	border-radius: 15px;
+	margin: 2px;
+	box-shadow: 3px 3px 1px black;
+}
+#blankspace{
+	width: 180px;
+	height: 25px;
+	background-color: white;
+	padding: 10px;
+	margin: 19px 2px 19px 30px;
+	display: inline-block;
+	box-shadow: inset 2px 2px 2px 0 #9a9a9a;
+	color: gray;
+	font-size: 14px;
+	text-align: center;
+}
+#gobutton{
+	width: 50px;
+	height: 40px;
+	background-color: #245076;
+	margin: 20px 20px;
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+	box-shadow: 3px 3px 1px gray;
+	border-radius: 11px;
+	box-shadow: inset 2px 2px 2px 0 #9a9a9a;
+}
+#gobutton h5{
+	font-size: 10px;
+}
+#pagehead h6{
+	font-size: 20px;
+	text-align: right;
+	font-weight: 60;
+}
+
+#navigator{
+	background-color: #3f7aad;
+	border-radius:  15px;
+	width: 750px;
+	height: 80px;
+	margin: 23px 100px;
+	box-shadow: 3px 3px 1px black;
+
+}
+#navigator h4{
+	color:white;
+	display: inline-block;
+	margin: 20px 10px;
+	padding: 12px;
+	font-size: 20px;
+	font-weight: 200;
+}
+#bodybranch{
+	background-color: #245076;
+	display: inline-block;
+
+}
+#branchleft{
+	display: inline-block;
+	width: 300px;
+	height: 200px;
+	margin: 6px 20px;
+	vertical-align: top;
+}
+
+#branchleft h5 { 
+	font-size: 18px;
+    list-style: none;
+    color: white;
+    padding: 1px;
+    text-decoration: underline;
+    text-align: left;
+    text-decoration: none;
+    margin: 0px 69px ;
+
+
+}
+
+#branchright p{
+   font-size: 19px;
+   color: white;
+   text-align: center;
+   margin: 2px 20px;
+  
+   
+}
+#branchright h5{
+   font-size:  20px;
+   color: #d2b83d;
+   text-decoration: initial;
+   text-align: center;
+   margin: 10px 20px;
+   
+  
+}
+#branchright h6{
+   font-size: 18px;
+   color: white;
+   text-align: center;
+   margin: 10px 20px;
+   
+}
+
+
+#branchright{ 
+	display: inline-block;
+    width: 500px;
+    height: 170px;
+    margin: 10px 50px;
+
+}
+
+
+#install{
+	background-color: white;
+	width: 970px;
+	height: 300px;
+	outline: 2px solid black;
+
+}
+
+.instal-line{
+	background-color: #73a7d5;
+	width: 350px;
+	height: 5px;
+	margin: 10px 40px;
+	display: inline-block;
+    text-align: center;
+
+}
+
+.installation{
+	display: inline-block;
+	margin: 0 25px;
+
+	
+}
+
+
+.instal-text{
+	font-size: 10px;
+	
+}
+
+
+.instal-line li{
+   color: #8bb5db;
+   font-size: 14px;
+   margin: 1px 0px;
+
+}
+
+.instal-line p{
+	font-size: 18px;
+
+}
+#pagefooter li{
+   
+   font-size: 22px;
+   display: inline-block;
+   color: white;
+   margin: 50px 59px;
+   color:#81b4e0;
+
+
+}
+
+#pagefooter h5{
+   font-size: 10px;
+   color:  white;
+   margin: -20px auto;
+   text-align: center;
+   color: #81b4e0;
+  
+}
+
